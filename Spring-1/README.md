@@ -27,8 +27,12 @@ Outline of contents we covered in the class :
 * Created branch skeleton.
 * Created remote/origin on Github for our project codebase.
 * Pushed initial branch skeleton to remote(here Github).
-* 
-
+* Created and checkout to branch define_model.
+* Created Package model.
+* Defined Book and Authour model.
+* Push define_model to origin.
+* Created and checkout to branch make_entities.
+* Used @Entity on our Models and declared @Id.
 
 
 ## Homework 
