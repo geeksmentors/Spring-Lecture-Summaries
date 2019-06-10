@@ -24,15 +24,13 @@ Outline of contents we covered in the class :
 * Unzip the downloaded project skeleton in some suitable directory.
 * Allowing the dependencies to resolved/downloaded.
 * Initialized Git Repo in codebase.
-* Created branch skeleton.
+* Created branch [skeleton](https://github.com/geeksmentors/springbootwebapplication/tree/skeleton).
 * Created remote/origin on Github for our project codebase.
 * Pushed initial branch skeleton to remote(here Github).
-* Created and checkout to branch define_model.
+* Created and checkout to branch [define_model](https://github.com/geeksmentors/springbootwebapplication/tree/define_model).
 * Created Package model.
 * Defined Book and Authour model.
 * Push define_model to origin.
-* Created and checkout to branch make_entities.
-* Used @Entity on our Models and declared @Id.
 
 
 ## Homework 
