@@ -40,7 +40,7 @@ Outline of contents we covered in the class :
     * Idea has not been able to index the downloaded dependencies.
     * Google for it and solve it
     
-* Sing up on [AWS](https://aws.amazon.com)
+* Sign up on [AWS](https://aws.amazon.com)
     * Real world web services run on servers which are nothing but some computers present in a company's datacenter.
     * Not all companies can afford to maintain their own datacenters so they rely on public cloud vendors like Amazon Web Services,Microsft Azure,Google Cloud Platform,Digital Ocean etc.
     * These cloud providers provide servers on demand to customers(like us).
@@ -56,6 +56,7 @@ Outline of contents we covered in the class :
    * Create a table named `user` in that database with columns (id(PRIMARY KEY),FirstName,LastName) using Workbench editor .
    * Insert some data in `user` table using Workbench editor.
    * Query the data using Workbench editor.
+* Learn SQL if you don't know it already from [W3Schools.](https://www.w3schools.com/sql/default.asp)
 
     
    
