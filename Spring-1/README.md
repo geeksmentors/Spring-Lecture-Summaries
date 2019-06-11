@@ -45,6 +45,17 @@ Outline of contents we covered in the class :
     * Not all companies can afford to maintain their own datacenters so they rely on public cloud vendors like Amazon Web Services,Microsft Azure,Google Cloud Platform,Digital Ocean etc.
     * These cloud providers provide servers on demand to customers(like us).
     * We'll deploy our web service on AWS servers and test it just like it would have run if you were working for a real production grade system.
+* Install MySQL workbench on your system.
+   * [Windows](https://dev.mysql.com/doc/workbench/en/wb-installing-windows.html)
+   * [Linux](https://dev.mysql.com/doc/workbench/en/wb-linux.html)
+   * [MacOsX](https://dev.mysql.com/doc/workbench/en/wb-mac.html)
+   * Open it.
+   * Run MySQL on your system.
+   * Connect to MySQL instance from Workbench.
+   * Create a database named `UserData` using Workbench editor.
+   * Create a table named `user` in that database with columns (id(PRIMARY KEY),FirstName,LastName) using Workbench editor .
+   * Insert some data in `user` table using Workbench editor.
+   * Query the data using Workbench editor.
 
     
    
