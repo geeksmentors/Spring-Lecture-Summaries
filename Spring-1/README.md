@@ -14,6 +14,7 @@ Outline of contents we covered in the class :
 * What are Design Patterns?
 * What is Model-View-Controller Design Pattern?
 * What are Template Engines, Why they are useful?
+* Why Relational Databases are called so?
 * What is Server?
 * What is Cloud?
 * What are examples of public cloud providers?
