@@ -18,6 +18,7 @@ Outline of contents we covered in the class :
 * [What is Server?](https://www.youtube.com/watch?v=KkVE53z8W9k)
 * [What is Cloud computing?](https://www.youtube.com/watch?v=kQnNd-DyrpA)
 * What are examples of public cloud providers?
+* [What is declarative programming?](https://stackoverflow.com/questions/129628/what-is-declarative-programming)
 
 
 ## Hands On 
