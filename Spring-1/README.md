@@ -11,6 +11,7 @@ Outline of contents we covered in the class :
 * [How Maven helps with Dependency Management?](https://www.youtube.com/watch?v=IRKu8_l5YiQ&list=PL92E89440B7BFD0F6)
 * [What are APIs?](https://www.youtube.com/watch?v=_YlYuNMTCc8)
 * [What are Web APIs/REST APIs?](https://www.youtube.com/watch?v=qVTAB8Z2VmA)
+* [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 * [What are Design Patterns?](https://www.youtube.com/watch?v=tDxnyop48mY&list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol)
 * [What is Model-View-Controller Design Pattern?](https://www.youtube.com/watch?v=fa8eUcu30Lw)
 * What are Template Engines, Why they are useful?
